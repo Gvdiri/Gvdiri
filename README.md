@@ -1,4 +1,4 @@
-## Gadiri Bah
+## Gadiri BAH
 
 Étudiant ingénieur en 4ᵉ année (M1), Systèmes d'information, à **Junia ISEN Lille**.
 Je conçois des logiciels et des agents IA, et je les livre à de vrais utilisateurs.
